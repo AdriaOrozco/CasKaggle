@@ -24,9 +24,8 @@ Son necesarias librerias como pandas, numpy, o scikit-learn entre otras para eje
 
 _Con los imports dados sobre el notebook realizado son suficientes para la ejecución del programa, pero algunas librerias deben ser primeramente instaladas via comandos_
 
-```
 Como es el caso de numpy
-```
+
 
 _Para instalar numpy se debe entrar en la consola del ordenador, escribir y ejecutar la siguiente sentencia_
 
