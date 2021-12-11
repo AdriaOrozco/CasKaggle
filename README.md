@@ -42,8 +42,11 @@ Para ejecutar el programa simplemente es necesario disponer de un entorno que pu
 ## Ejecutando el programa 📦
 
 El programa consta de celdas de estilo texto para ayudar a entender el codigo y las explicaciones, y celdas de tipo codigo que contienen la bases y los pasos realizados sobre el proyecto.
+
 Para ejecutar estos basta con pulsar <<Run>> sobre cada celda una a una, o en la barra de herramientas desplegar <<Cell>> y hacer click en <<Run all>>. 
+  
 El programa esta preparado para ser ejecutado todo de golpe sin fallos.
+  
 _**Notar que debido a la gran cantidad de modelos empleados la ejecución completa del proyecto puede tardar unos minutos**_
 
 ## Construido con 🛠️
