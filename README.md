@@ -37,7 +37,6 @@ pip install numpy
 ## Abriendo el programa ⚙️
 
 Para ejecutar el programa simplemente es necesario disponer de un entorno que pueda cargar el archivo notebook como Anaconda navigator, desde el cual podemos cargar un Jupyter notebook en forma local y así abrir el notebook del proyecto con el interprete de python 3
-### Analice las pruebas end-to-end 🔩
 
 
 ## Ejecutando el programa 📦
@@ -48,7 +47,6 @@ El programa esta preparado para ser ejecutado todo de golpe sin fallos.
 _**Notar que debido a la gran cantidad de modelos empleados la ejecución completa del proyecto puede tardar unos minutos**_
 
 ## Construido con 🛠️
-
 
 * [Python](https://es.python.org/) - El lenguaje usado
 * [Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/index.html) - IDE usado
